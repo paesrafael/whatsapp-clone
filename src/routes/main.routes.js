@@ -26,7 +26,7 @@ export default function MainRoutes() {
             inactiveTintColor: '#767676',
             showIcon: true,
             labelStyle: {
-              fontSize: 18,
+              fontSize: 17,
               fontWeight: 'bold',
             },
             tabStyle: { width: 'auto' },
