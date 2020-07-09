@@ -2,7 +2,7 @@ import React, { useCallback } from 'react'
 import { Linking } from 'react-native'
 
 import {
-  Container, Text,
+  Container, Text, Button,
 } from './styles'
 
 export default function Details() {
